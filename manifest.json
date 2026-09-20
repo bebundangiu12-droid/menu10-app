@@ -1,0 +1,22 @@
+{
+  "name": "Menu 10 Chức Năng",
+  "short_name": "Menu 10",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070a0a",
+  "theme_color": "#07100e",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

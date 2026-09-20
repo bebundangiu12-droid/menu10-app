@@ -1,0 +1,1 @@
+Upload all files to HTTPS hosting. Open the HTTPS URL in Safari, Share > Add to Home Screen. Key: PALOFSC2026. The switches reproduce the original UI toggle logic; they do not modify games or iOS hardware.
